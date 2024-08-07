@@ -1,0 +1,14 @@
+{
+  "name": "biodata",
+  "version": "1.0.0",
+  "description": "Project membuat biodata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Biodata\u001a\u001a"
+  ],
+  "author": "Ade Rio Saputra",
+  "license": "ISC"
+}
